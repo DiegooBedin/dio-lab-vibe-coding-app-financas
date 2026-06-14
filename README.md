@@ -74,7 +74,7 @@ Priorizar que as funções principais funcionem sem erro.
 
 # Interações com o Lovable:
 
-- "Quero criar um aplicativo de Organização de Finanças": {PRD}
+- "Quero criar um aplicativo de Organização de Finanças...": {PRD}
 
 - "Correção de erros": o app não apresentava as páginas de metas e simulação de investimentos, e não era possível criar conta sem usar o login com Google.
 
@@ -262,7 +262,7 @@ Algumas coisas não saíram exatamente como eu imaginava na primeira tentativa. 
 
 Também senti falta de mais opções nos gráficos e de mais controle sobre as porcentagens usadas no simulador de CDB, LCI e LCA. 
 
-Além disso, percebi que pedir muitas funções ao mesmo tempo pode deixar o processo mais difícil, principalmente usando uma conta gratuita com limite de créditos, foi necessário então refinar o prompt e tentar de novo em uma nova conta no Lovable devido a limitação de tokens do aplicativo. 
+Além disso, percebi que pedir muitas funções ao mesmo tempo pode deixar o processo mais difícil, principalmente usando uma conta gratuita com limite de créditos. Foi necessário então refinar o prompt e tentar de novo em uma nova conta no Lovable devido a limitação de tokens do aplicativo. 
 
 Em dado momento, quando já definido o prompt final, o aplicativo resultou em alguns erros, que por uma primeira interação no aplicativo, causou certa apreensão devido também a limitação da utilização gratuita. 
 
