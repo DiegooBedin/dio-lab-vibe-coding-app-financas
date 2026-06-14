@@ -74,11 +74,11 @@ Priorizar que as funções principais funcionem sem erro.
 
 # Interações com o Lovable:
 
--Quero criar um aplicativo de Organização de Finanças: {PRD}
+- "Quero criar um aplicativo de Organização de Finanças": {PRD}
 
--Fix errors: App nao apresentava pagina de metas e de simulação de investimento e nao era possivel criar contas sem o link com o google.
+- "Correção de erros": o app não apresentava as páginas de metas e simulação de investimentos, e não era possível criar conta sem usar o login com Google.
 
--Pagina de metas e de investir nao funcionam, ambas relatam "404 - pagina nao encontrada". Nao é possivel cadastrar nenhuma conta a nao ser pelo google. Pagina de login nao tem necessidade de ter tantas informaçoes, apenas o login e criar conta, inclusive o link com o google é desnecessário. O aplicativo esta instavel e demorando.
+- "Pagina de metas e de investir nao funcionam, ambas relatam "404 - pagina nao encontrada". Nao é possivel cadastrar nenhuma conta a nao ser pelo google. Pagina de login nao tem necessidade de ter tantas informaçoes, apenas o login e criar conta, inclusive o link com o google é desnecessário. O aplicativo esta instavel e demorando": Ajuste nas páginas de metas e investimentos, que retornavam erro 404. Também foi simplificada a tela de login, removendo o acesso com Google e mantendo apenas e-mail e senha.
 
 
 
@@ -89,7 +89,7 @@ https://bolso-descomplicado.lovable.app/
 
 # Prints do aplicativo
 
-Abaixo estão algumas telas do aplicativo gerado no Lovable:
+Abaixo estão algumas telas do aplicativo gerado no Lovable. Durante o processo, também foram feitas interações com IA para criar, corrigir e refinar o projeto.
 
 <p align="center">
   <img src="./images/PRINCIPAL.png" width="900" alt="Telas do aplicativo Bolso Leve">
